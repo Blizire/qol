@@ -1,0 +1,3 @@
+[submodule "ps-scripts"]
+	path = ps-scripts
+	url = git@github.com:Blizire/ps-scripts.git
