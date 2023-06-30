@@ -21,6 +21,7 @@ software=(
 	"cowsay"
 	"net-tools"
 	"screenfetch"
+	"vim"
 )
 
 for i in "${software[@]}"; do
